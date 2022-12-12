@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Sakthi, a System administrator turned into a Developer/PowerShell Automator.
+- 👋 Hello, I'm a System administrator turned into a Developer/PowerShell Automator.
 - 👀 PowerShell is my first scritping language.
 - 🌱 I’m currently learning DevOps Practices
 - 💞️ I’m looking to collaborate on PowerShell development and devops.
